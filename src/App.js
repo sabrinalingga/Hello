@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p>
           Hello There, This is Glafert Kapahang! dan ini branch2 dan ini updatetan ke 3.
-          dan ini persiapan untuk simulasi dilanjutkan oleh sabrina.
+          dan ini persiapan untuk simulasi dilanjutkan oleh sabrina dan difixkan oleh glafert.
         </p>
         <a
           className="App-link"

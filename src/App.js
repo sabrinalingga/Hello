@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hello There, This is Glafert Kapahang! dan ini branch2
+          Hello There, This is Glafert Kapahang! dan ini branch2 dan ini updatetan ke 2.
         </p>
         <a
           className="App-link"

@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hello There, This is the imported repository!
+          Hello There, This is the imported repository! 
         </p>
         <a
           className="App-link"
@@ -16,6 +16,7 @@ function App() {
         >
         </a>
       </header>
+      Here we go!
     </div>
   );
 }

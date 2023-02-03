@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hello There, This is Sabby! Let's learn GitHub with me!!
+          Hello There, This is the imported repository!
         </p>
         <a
           className="App-link"
